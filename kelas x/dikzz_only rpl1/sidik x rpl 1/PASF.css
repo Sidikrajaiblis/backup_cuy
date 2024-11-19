@@ -1,0 +1,25 @@
+.body {
+    background-color:#b5b8bb ;
+}
+.t {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 3px 3px;
+}
+
+.bg {
+    background-color: rgb(8, 118, 245);
+    border-radius: 4px;
+    box-shadow: 3px 3px;
+    margin: 50px 0px 0px 150px;
+    position: absolute;
+}
+
+.bg1 {
+    background-color: #bcbec0;
+    border-radius: 2px;
+    box-shadow: 3px 3px;
+    margin: 100px 0px 0px 300px;
+    position: absolute;
+}
+

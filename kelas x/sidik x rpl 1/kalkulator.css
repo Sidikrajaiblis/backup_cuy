@@ -1,0 +1,25 @@
+.hitungan {
+    width: 320px;
+    border-radius: 4px;
+}
+.input {
+    margin: 0px 15px;
+    padding: 5px;
+    border-radius: 4px;
+    width: 90px;
+}
+.tombol {
+    margin: 0px 0px 90px;
+    background-color: red;
+    color: white;
+    padding: 5px;
+}
+.bg {
+    background-color: rgb(74, 127, 189);
+    border-radius: 2px;
+    box-shadow: 3px 3px;
+    margin: 100px 0px 0px 300px;
+}
+.bd {
+    background: url(wallhaven-72lq5v_1280x1024.png);
+}
